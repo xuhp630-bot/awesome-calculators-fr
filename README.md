@@ -210,6 +210,7 @@
 | [Ascendant astrologique homme](https://macalculatriceenligne.com/astrologie/calcul-ascendant-homme/) | Ascendant astrologique homme | Claire |
 | [Calcul âge](https://macalculatriceenligne.com/temps-heures/calcul-age-entre-deux-dates/) | Calcul âge | Mehdi |
 | [DPE coef 2026 1,9](https://macalculatriceenligne.com/construction/calcul-dpe-estimation-2026/) | DPE coef 2026 1,9 | Thomas |
+| [Calculatrice beton dalle et sacs](https://concreteestimatorhub.com/fr/concrete-slab-calculator) | Calculatrice beton gratuite pour dalle, m3, sacs, marge et comparaison ready-mix | Concrete Estimator Hub |
 | [Puissance triphasée](https://macalculatriceenligne.com/electricite/calculateur-puissance-triphase/) | Puissance triphasée | Thomas |
 
 
